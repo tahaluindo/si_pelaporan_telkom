@@ -1,0 +1,8 @@
+# Database Configuration
+DB_HOSTNAME="103.175.206.70"
+DB_USERNAME="smkkeseh_yusron"
+DB_PASSWORD="Okebroo123"
+DB_DATABASE="smkkeseh_aprima"
+DB_DRIVER="mysqli"
+
+BASE_URL = "https://cyberlab-swj.my.id/"

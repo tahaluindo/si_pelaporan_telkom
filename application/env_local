@@ -1,0 +1,8 @@
+# Database Configuration
+DB_HOSTNAME="localhost"
+DB_USERNAME="root"
+DB_PASSWORD=""
+DB_DATABASE="apk_pupr"
+DB_DRIVER="mysqli"
+
+BASE_URL = "http://localhost/apk_pupr/"
